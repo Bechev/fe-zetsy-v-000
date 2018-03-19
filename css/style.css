@@ -22,6 +22,9 @@ body {
 
 /* Write all remaining styles here */
 h1{
-	color: rgb(111,127,122);
 	font-family: Baskerville, Helvetica, serif;
+}
+
+header{
+		color: rgb(111,127,122);
 }
