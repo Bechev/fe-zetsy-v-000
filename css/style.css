@@ -24,13 +24,14 @@ body {
 h1{
 	font-size: 5em;
 	font-family: Baskerville, Helvetica, serif;
+	color: #ccc;
 }
 
 h1, h2{
-		color: rgb(111,127,122);
 }
 
 h2{
+	color: rgb(111,127,122);
 	font-size: 2em;
 }
 
