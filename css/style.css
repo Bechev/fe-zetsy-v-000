@@ -35,6 +35,5 @@ h2{
 }
 
 img{
-	border: 20px;
-	border-color: rgb(111,127,122);
+	border: 20px solid rgb(111,127,122);
 }
